@@ -29,4 +29,4 @@ We have provided all the scripts in the folder 'shells', you can start your trai
 ```
 ./shell/nextqa_train.sh 0
 ```
-It will train the model and save to the folder 'sm
+
